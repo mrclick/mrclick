@@ -15,3 +15,10 @@
 <a href="https://medium.com/@jpngabonziza">
   <img align="left" alt="JP's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/medium.svg" />
 </a>
+
+<br>
+<br>
+
+- 👀 I’m a Dev 🧑‍💻 :: Baller 🏀 :: Believer ✝️
+- 🌱 I’m currently into ALX Software Engineering Bootcamp
+- ⚡ Favorite Quote **Think Twice, Code Once...**
