@@ -19,6 +19,8 @@
 <br>
 <br>
 
-- 👀 I’m a Dev 🧑‍💻 :: Baller 🏀 :: Believer ✝️
-- 🌱 I’m currently into ALX Software Engineering Bootcamp
+<p>Mid-level programmer passionate about building beautiful, user-friendly and high-performing websites and applications.</p>
+
+- 👀 Dev 🧑‍💻 :: Baller 🏀 :: Believer ✝️
+- 🌱 I am currently enrolled in the ALX software engineering bootcamp to further enhance my skills and knowledge.
 - ⚡ Favorite Quote **Think Twice, Code Once...**
