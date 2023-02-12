@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi, I'm JP Ngabonziza 👋
 
-<!--
-**mrclick/mrclick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://twitter.com/jpngabonziza">
+  <img align="left" alt="JP's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/jpngabonziza">
+  <img align="left" alt="JP's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/mrclick">
+  <img align="left" alt="JP's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://instagram.com/jpngabonziza/">
+  <img align="left" alt="JP's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://medium.com/@jpngabonziza">
+  <img align="left" alt="JP's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/medium.svg" />
+</a>
